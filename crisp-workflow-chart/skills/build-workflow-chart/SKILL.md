@@ -1,7 +1,6 @@
 ---
 name: build-workflow-chart
 description: This skill should be used when the user asks to "rebuild the workflow chart", "regenerate the PPTX", "update the workflow chart", "build the Crisp workflow", or mentions changes to "Workflow_Chart_v2" or "Workflow_Chart_v3". It rebuilds the Crisp AI Workflow PowerPoint slide from the build_slide.py script.
-argument-hint: [optional: describe what to change]
 allowed-tools: [Read, Edit, Bash, PowerShell, Glob]
 ---
 
