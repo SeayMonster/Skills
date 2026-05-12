@@ -5,9 +5,6 @@
     "name": "Crisp Consulting"
   },
   "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/michellesacia-lab/Skills.git"
-  },
+  "repository": "https://github.com/michellesacia-lab/Skills",
   "homepage": "https://github.com/michellesacia-lab/Skills"
 }
