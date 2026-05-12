@@ -20,13 +20,13 @@
       "homepage": "https://github.com/michellesacia-lab/Skills"
     },
     {
-      "name": "professional-services-sdd",
+      "name": "crisp-bc-sdd",
       "version": "1.0.0",
       "description": "Generate a Solution Design Document (SDD) from a completed Opportunity Log and BRD for Crisp Professional Services engagements",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/michellesacia-lab/Skills",
-        "path": "plugins/professional-services-sdd"
+        "path": "plugins/crisp-bc-sdd"
       },
       "homepage": "https://github.com/michellesacia-lab/Skills"
     }

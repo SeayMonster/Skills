@@ -1,5 +1,5 @@
 ---
-name: professional-services-sdd
+name: crisp-bc-sdd
 description: >-
   Generate a Solution Design Document (SDD) from a completed Opportunity Log and Business Requirements Document (BRD). 
   This skill ensures all information flows correctly from the Opportunity Log through the BRD into a comprehensive, 
