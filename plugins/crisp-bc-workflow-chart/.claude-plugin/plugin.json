@@ -1,5 +1,5 @@
 {
-  "name": "crisp-bc-workflow-chart",
+  "name": "crisp-ps",
   "description": "Rebuilds the Claude & AI Workflow — Standard Engagement PowerPoint slide from the build_slide.py script",
   "author": {
     "name": "Crisp Consulting"
