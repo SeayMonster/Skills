@@ -1,5 +1,5 @@
 ---
-name: crisp-bc:workflow-chart
+name: Crisp-ps:workflow-chart
 description: This skill should be used when the user asks to "rebuild the workflow chart", "regenerate the PPTX", "update the workflow chart", or "build the engagement workflow slide". It rebuilds the Claude & AI Workflow PowerPoint slide from the build_slide.py script.
 allowed-tools: [Read, Edit, Bash, PowerShell, Glob]
 ---
