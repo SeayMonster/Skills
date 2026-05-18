@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "crisp-bc-workflow-chart",
+      "name": "crisp-ps",
       "version": "1.0.0",
       "description": "Rebuilds the Claude & AI Workflow — Standard Engagement PowerPoint slide from the build_slide.py script",
       "source": {
@@ -20,7 +20,7 @@
       "homepage": "https://github.com/michellesacia-lab/Skills"
     },
     {
-      "name": "crisp-bc-sdd",
+      "name": "crisp-ps",
       "version": "1.0.0",
       "description": "Generate a Solution Design Document (SDD) from a completed Opportunity Log and BRD for Crisp Professional Services engagements",
       "source": {
@@ -32,3 +32,4 @@
     }
   ]
 }
+
